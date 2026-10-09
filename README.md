@@ -132,7 +132,7 @@ make --version
 Clone the repository and enter its directory:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tinyc-compiler.git
+git clone https://github.com/mayanksinharay/tinyc-compiler.git
 cd tinyc-compiler
 ```
 
